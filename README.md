@@ -16,5 +16,15 @@ For my capstone project in my graduate program, I created a full-stack applicati
 
 ### Entity Relationship Diagram
 <p align="center">
-    <img src="/images/ERD - Saved.png" width="800" />
+    <img src="/images/ERD - Saved.png" width="700" />
+</p>
+
+### Storyboards
+<p align="center">
+    <img src="/images/Storyboard 0.png" width="300" />
+    <img src="/images/Storyboard 1.png" width="300" />
+    <img src="/images/Storyboard 2.png" width="300" />
+    <img src="/images/Storyboard 3.png" width="300" />
+    <img src="/images/Storyboard 4.png" width="300" />
+    <img src="/images/Storyboard 5.png" width="300" />
 </p>
