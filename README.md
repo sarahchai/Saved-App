@@ -21,10 +21,10 @@ For my capstone project in my graduate program, I created a full-stack applicati
 
 ### Storyboards
 <p align="center">
-    <img src="/images/Storyboard 0.png" width="300" />
-    <img src="/images/Storyboard 1.png" width="300" />
-    <img src="/images/Storyboard 2.png" width="300" />
-    <img src="/images/Storyboard 3.png" width="300" />
-    <img src="/images/Storyboard 4.png" width="300" />
-    <img src="/images/Storyboard 5.png" width="300" />
+    <img src="/images/Storyboard 0.png" width="50%" />
+    <img src="/images/Storyboard 1.png" width="50%" />
+    <img src="/images/Storyboard 2.png" width="50%" />
+    <img src="/images/Storyboard 3.png" width="50%" />
+    <img src="/images/Storyboard 4.png" width="50%" />
+    <img src="/images/Storyboard 5.png" width="50%" />
 </p>
