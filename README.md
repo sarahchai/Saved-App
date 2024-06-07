@@ -22,9 +22,21 @@ For my capstone project in my graduate program, I created a full-stack applicati
 ### Storyboards
 <p align="center">
     <img src="/images/Storyboard 0.png" width="50%" />
+    <p>Landing Page - Login/ Sign up</p>
+    <br>
     <img src="/images/Storyboard 1.png" width="50%" />
+    <p>Search Page</p>
+    <br>
     <img src="/images/Storyboard 2.png" width="50%" />
+    <p>Movie category chosen to search</p>
+    <br>
     <img src="/images/Storyboard 3.png" width="50%" />
+    <p>Search result</p>
+    <br>
     <img src="/images/Storyboard 4.png" width="50%" />
+    <p>Saves page - saved item shown</p>
+    <br>
     <img src="/images/Storyboard 5.png" width="50%" />
+    <p>Feed Page - saved public item by friends</p>
+    <br>
 </p>
