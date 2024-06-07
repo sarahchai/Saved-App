@@ -28,7 +28,7 @@ For my capstone project in my graduate program, I created a full-stack applicati
 <p align="center">
     <img src="/images/Storyboard 1.png" width="50%" />
 </p>
-    <p align="center">Search Page</p>
+    <p align="center">Search Page - choose a category to search</p>
     <br>
 <p align="center">
     <img src="/images/Storyboard 2.png" width="50%" />
@@ -38,7 +38,7 @@ For my capstone project in my graduate program, I created a full-stack applicati
 <p align="center">
     <img src="/images/Storyboard 3.png" width="50%" />
 </p>
-    <p align="center">Search result</p>
+    <p align="center">Search results</p>
     <br>
 <p align="center">
     <img src="/images/Storyboard 4.png" width="50%" />
